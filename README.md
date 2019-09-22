@@ -2,7 +2,7 @@
 
 ## Intro
 
-Stellen sie sich vor, sie wollen sich mit einem Taubstummen unterhalten, aber beherschen die Zeichensprache nicht. Unsere Applikation bietet ihnen eine real-time Lösung, die mit einer Bilderkennung Handzeichen in Buchstaben übersetzt. 
+Stellen sie sich vor, sie wollen sich mit einem Taubstummen unterhalten, aber beherrschen die Zeichensprache nicht. Unsere Applikation bietet ihnen eine real-time Lösung, die mit einer Bilderkennung Handzeichen in Buchstaben übersetzt. 
 
 ## Architektur unseres Neuronales Netzwerks
 
