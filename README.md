@@ -1,11 +1,15 @@
 # ASL - Erkennung
+
 https://bw-ki.de/
 
 ## Quellen
 
 Deep Learning with Python by François Chollet
+
 https://pytorch.org/docs/stable/nn.html
+
 https://github.com/LeanManager/PyTorch_Image_Classifier
+
 https://www.pyimagesearch.com/2014/08/18/skin-detection-step-step-example-using-python-opencv/
 
 ## Intro
